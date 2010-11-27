@@ -1,0 +1,14 @@
+This is a simple app created at Railscamp Perth 2010
+
+What does it do?
+It automates the creation of HTML email signatures (which are a necessary evil where I work).
+
+
+Why does it exist?
+Outlook + MS Word's HTML rendering engine creates terrible markup that causes bugs with our recruitment system. As a result, I used to hand create each signature. 
+
+
+How can I use it?
+Customise the output.erb file to suit your signature.
+
+Thanks to Carl Woodward and Julio Cesar Ody for your adult supervision.

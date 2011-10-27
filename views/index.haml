@@ -1,7 +1,7 @@
 %h1 Create your signature
 
 %div.instructions
-  %p Open your signatures folder: 
+  %p Open your signatures folder:
   %p C:\User\Application Data\Microsoft\Signatures
   %p This form will create your signature file.
 
@@ -9,7 +9,7 @@
 %form{ :action => "/", :method => "post" }
   %label Name
   %input{:name => "name", :type => "text"}
-  
+
   %br
   %label Title
   %input{:name => "title", :type => "text"}
@@ -17,15 +17,14 @@
   %br
   %label Phone
   %input{:name => "phone", :type => "text"}
-  
+
   %br
   %label Mobile
   %input{:name => "mobile", :type => "text"}
-  
+
   %br
   %input.submit{:type => "submit"}
 
-  
+
 %img{ :src => "sustainability.png"}
-%p If you need the logo, right click and "save as" 
- 
+%p If you need the logo, right click and "save as"

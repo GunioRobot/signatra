@@ -7,7 +7,7 @@ It automates the creation of HTML email signatures (which are a necessary evil w
 
 Why does it exist?
 =================
-Outlook + MS Word's HTML rendering engine creates terrible markup that causes bugs with our recruitment system. As a result, I had to hand create each signature to ensure it has standards compliant markup. 
+Outlook + MS Word's HTML rendering engine creates terrible markup that causes bugs with our recruitment system. As a result, I had to hand create each signature to ensure it has standards compliant markup.
 
 
 How can I use it?
